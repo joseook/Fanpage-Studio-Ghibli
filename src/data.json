@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "TitlePerson": "Howl",
+      "AboutPerson": "A powerful wizard with a mysterious past.",
+      "Img": "https://th.bing.com/th/id/OIP.N2reQp4MCNKH3sD6u9cWqwHaEq?w=253&h=180&c=7&r=0&o=5&pid=1.7",
+      "History": "Howl Jenkins Pendragon is a powerful wizard known for his charming demeanor and mysterious background. He made a contract with Calcifer, a fire demon, to gain immense magical abilities.",
+      "Status": "Alive"
+    },
+    {
+      "TitlePerson": "Sophie",
+      "AboutPerson": "A young woman cursed to age rapidly.",
+      "Img": "https://th.bing.com/th/id/OIP.yaG8h3_bduHxRtgsgZV4GwHaHa?rs=1&pid=ImgDetMain",
+      "History": "Sophie Hatter was an ordinary girl until she was cursed by the Witch of the Waste to appear as an old woman. Throughout her journey, she discovers her own magical abilities and breaks the curse.",
+      "Status": "Alive"
+    },
+    {
+      "TitlePerson": "Calcifer",
+      "AboutPerson": "A fire demon who powers Howl's castle.",
+      "Img": "https://th.bing.com/th/id/R.968d51bd8d141234c4506911855291e5?rik=dvZuA6LwTPgo6Q&pid=ImgRaw&r=0",
+      "History": "Calcifer is a fire demon bound by a contract to Howl. He resides in Howl's Moving Castle and provides it with magical energy.",
+      "Status": "Alive"
+    },
+    {
+      "TitlePerson": "Markl",
+      "AboutPerson": "Howl's young apprentice.",
+      "Img": "https://th.bing.com/th/id/R.424fd75691fc1d0049425054acee1ff9?rik=yxQqKnMJvHPgCQ&pid=ImgRaw&r=0",
+      "History": "Markl is a young apprentice learning magic under the tutelage of Howl. He assists Howl in his magical endeavors and maintains the castle's operations.",
+      "Status": "Alive"
+    },
+    {
+      "TitlePerson": "Witch of the Waste",
+      "AboutPerson": "A powerful witch who curses Sophie.",
+      "Img": "https://th.bing.com/th/id/OIP.-KWJPoGtikSc2q0f_btrdQHaD-?rs=1&pid=ImgDetMain",
+      "History": "The Witch of the Waste is a formidable sorceress who curses Sophie out of jealousy. She once sought Howl's heart for herself but was ultimately defeated.",
+      "Status": "Deceased"
+    }
+  ],
+
+  "infoHistory": [
+    {
+      "Title": "Castle in the Sky",
+      "Description": "A classic tale of adventure and discovery.",
+      "Img": "https://amc-theatres-res.cloudinary.com/amc-cdn/production/2/movies/56400/56385/PosterDynamic/67419.jpg",
+      "Text": "Learn More"
+    },
+    {
+      "Title": "Spirited Away",
+      "Description": "A young girl's journey through a magical world.",
+      "Img": "https://th.bing.com/th/id/R.b7b9652068503773f52e903541433fde?rik=7VotjGdbB6xMnQ&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fstudio-ghibli%2fimages%2f4%2f4a%2fSpirited_Away_(Amerikansk_DVD).jpg%2frevision%2flatest%3fcb%3d20140116135457&ehk=5m6Cq81bj%2f61L4HlsFn1xHQk5%2b9lo2j7stk4g%2bDojXM%3d&risl=&pid=ImgRaw&r=0",
+      "Text": "Learn More"
+    },
+    {
+      "Title": "My Neighbor Totoro",
+      "Description": "A heartwarming story of friendship and wonder.",
+      "Img": "https://th.bing.com/th/id/R.d8b970ceee5c271da8ddd5ba13fa58e5?rik=VG3Uqf1QVIHI6Q&pid=ImgRaw&r=0",
+      "Text": "Learn More"
+    },
+    {
+      "Title": "The Tale of Princess Kaguya",
+      "Description": "The Tale of the Bamboo Cutter\". Kaguya was a tiny..",
+      "Img": "https://th.bing.com/th/id/OIP.zuQLLIk7ftOpQgvv7vokpQHaLH?rs=1&pid=ImgDetMain",
+      "Text": "Learn More"
+    }
+  ]
+}
